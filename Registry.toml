@@ -1,0 +1,5 @@
+name = "ACE"
+uuid = "4df296bb-8d5d-4198-aea8-906856ccc70d"
+repo = "https://github.com/ACEsuit/ACEregistry"
+
+[packages]
