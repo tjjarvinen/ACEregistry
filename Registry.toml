@@ -1,5 +1,25 @@
 name = "ACE"
 uuid = "4df296bb-8d5d-4198-aea8-906856ccc70d"
-repo = "https://github.com/ACEsuit/ACEregistry"
+repo = "https://github.com/ACEsuit/ACEregistry.git"
+description = "Julia Registry for ACEsuit packages"
 
 [packages]
+03c4bcba-a943-47e9-bfa1-b1661fc2974f = { name = "Polynomials4ML", path = "P/Polynomials4ML" }
+091ff95d-640b-5850-a1f5-612e1cfea893 = { name = "NBodyIPs", path = "N/NBodyIPs" }
+14bae519-eb20-449c-a949-9c58ed33163e = { name = "ACEbase", path = "A/ACEbase" }
+1e34e032-0b37-4839-a012-196b35408c3c = { name = "ACEatoms", path = "A/ACEatoms" }
+2fcf5ba9-9ed4-57cf-b73f-ff513e316b9c = { name = "NeighbourLists", path = "N/NeighbourLists" }
+3002bd4c-79e4-52ce-b924-91256dde4e52 = { name = "IPFitting", path = "I/IPFitting" }
+37d5470d-be39-5372-83c6-3e18ddf26f4a = { name = "JuLIPMaterials", path = "J/JuLIPMaterials" }
+3e8ccfd2-c8b0-11ea-32f1-f3a5990fd77a = { name = "ACE", path = "A/ACE" }
+500c3504-e044-11e9-3381-317db4d8b740 = { name = "PolyPairPots", path = "P/PolyPairPots" }
+51974c44-a7ed-5088-b8be-3e78c8ba416c = { name = "ASE", path = "A/ASE" }
+658cac36-ff0f-48ad-967c-110375d98c9d = { name = "ObjectPools", path = "O/ObjectPools" }
+76fa5280-f995-49fd-9918-e917225eb296 = { name = "BIPs", path = "B/BIPs" }
+8c4e8d19-0bd6-4234-8309-7210652e3178 = { name = "ACE1pack", path = "A/ACE1pack" }
+945c410c-986d-556a-acb1-167a618e0462 = { name = "JuLIP", path = "J/JuLIP" }
+9c0324d0-6785-59b7-97dc-0c015a243b66 = { name = "SKTB", path = "S/SKTB" }
+ad31a8ef-59f5-4a01-b543-a85c2f73e95c = { name = "ACEfit", path = "A/ACEfit" }
+c2548312-a4fd-5d16-85d3-38ef7dd54d98 = { name = "Isaac", path = "I/Isaac" }
+d0dfcdf4-f9d4-4d39-8ac7-72ac73934171 = { name = "ACEbonds", path = "A/ACEbonds" }
+e3f9bc04-086e-409a-ba78-e9769fe067bb = { name = "ACE1", path = "A/ACE1" }
