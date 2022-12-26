@@ -1,0 +1,3 @@
+name = "ACEcore"
+uuid = "44c1e890-45d1-48ea-94d6-c2ea5b573f71"
+repo = "git@github.com:ACEsuit/ACEcore.jl.git"
