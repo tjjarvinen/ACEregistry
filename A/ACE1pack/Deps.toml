@@ -40,3 +40,6 @@ ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
 PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
 Suppressor = "fd094767-a336-5f1f-9728-57cf17d0bbfb"
 TimerOutputs = "a759f4b9-e2f1-59dc-863e-4aeb61b1ea8f"
+
+["0.3-0"]
+ACE1x = "5cc4c08c-8782-4a30-af6d-550b302e9707"
