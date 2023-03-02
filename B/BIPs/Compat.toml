@@ -7,14 +7,12 @@ H5Zlz4 = "0.1"
 H5Zzstd = "0.1"
 HDF5 = "0.16"
 JSON = "0.21"
-MultivariateStats = "0.9"
 NPZ = "0.4"
 OffsetArrays = "1"
 PyCall = "1"
 Reexport = "1"
 StaticArrays = "1"
 YAML = "0.4"
-julia = "1.7.0-1"
 
 ["0-0.0.1"]
 Flux = "0.13"
@@ -23,3 +21,13 @@ MLJ = "0.18"
 MLJFlux = "0.2"
 ScikitLearn = "0.6"
 SimpleChains = "0.2"
+
+["0-0.0.2"]
+MultivariateStats = "0.9"
+julia = "1.7.0-1"
+
+["0.0.3-0"]
+ACEcore = "0.0.3"
+MultivariateStats = "0.9-0.10"
+Polynomials4ML = "0.0.4"
+julia = "1.8.0-1"
