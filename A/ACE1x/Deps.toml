@@ -9,3 +9,6 @@ NamedTupleTools = "d9ec5142-1e00-5aa0-9d6a-321866360f50"
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
+
+["0.0.7-0"]
+RepLieGroups = "f07d36f2-91c4-427a-b67b-965fe5ebe1d2"
