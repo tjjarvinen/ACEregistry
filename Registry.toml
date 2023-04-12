@@ -6,6 +6,7 @@ description = "Julia Registry for ACEsuit packages"
 [packages]
 03c4bcba-a943-47e9-bfa1-b1661fc2974f = { name = "Polynomials4ML", path = "P/Polynomials4ML" }
 091ff95d-640b-5850-a1f5-612e1cfea893 = { name = "NBodyIPs", path = "N/NBodyIPs" }
+0c0b7517-201b-4082-a776-cd952d974092 = { name = "ACEhamiltonians", path = "A/ACEhamiltonians" }
 14bae519-eb20-449c-a949-9c58ed33163e = { name = "ACEbase", path = "A/ACEbase" }
 1e34e032-0b37-4839-a012-196b35408c3c = { name = "ACEatoms", path = "A/ACEatoms" }
 29a2b48e-e97a-4ce0-9095-f15688946fdc = { name = "ACEpsi", path = "A/ACEpsi" }
