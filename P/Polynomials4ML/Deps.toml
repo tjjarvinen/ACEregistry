@@ -11,3 +11,8 @@ Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 ["0.0.2-0"]
 SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
+
+["0.1-0"]
+ACEbase = "14bae519-eb20-449c-a949-9c58ed33163e"
+LuxCore = "bb33d45b-7691-41d6-9220-0943567d0623"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
