@@ -7,7 +7,12 @@ BenchmarkTools = "1"
 ForwardDiff = "0.10"
 LoopVectorization = "0.12"
 LuxCore = "0.1.3-0.1"
-ObjectPools = "0.1"
 QuadGK = "2"
 SpecialFunctions = "2.2.0-2"
 StaticArrays = "1.5.0-1"
+
+["0.1.0"]
+ObjectPools = "0.1"
+
+["0.1.1-0"]
+ObjectPools = "0.2.1-0.2"
